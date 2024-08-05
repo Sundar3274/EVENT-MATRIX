@@ -1,0 +1,15 @@
+EVENT PLATFROM
+
+https://github.com/adrianhajdin/event_platform
+
+GENERIC WEB EVENT
+
+https://github.com/gdg-x/chakram
+
+EVENT MNGT & BACKEND
+
+https://github.com/st3v3nmw/events-management-app-backend
+
+SEAJELL
+
+https://github.com/seajell/seajell
